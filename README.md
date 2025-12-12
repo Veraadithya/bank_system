@@ -51,41 +51,6 @@ Optional: Flask (if used), SQLite/MySQL (if used)
 
 (Modify according to your actual tools and frameworks.)
 
-🧪 How to Run Locally
-
-Clone the repository
-
-git clone https://github.com/Veraadithya/bank_system.git
-
-
-Navigate into project directory
-
-cd bank_system
-
-
-(If Python backend) Create and activate virtual environment
-
-python3 -m venv venv
-source venv/bin/activate
-
-
-Install dependencies
-
-pip install -r requirements.txt
-
-
-Run the application
-
-python app.py
-
-
-Open in browser at:
-
-http://127.0.0.1:5000
-
-
-(Adapt steps for your actual setup — Flask vs static site, database config, etc.)
-
 📌 Usage
 
 After running the project:
